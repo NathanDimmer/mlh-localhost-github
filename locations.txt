@@ -311,3 +311,5 @@ Irvine, California, United States
 Calgary, Alberta, Canada
 Seattle, Washington
 Plymouth, Minnesota
+Monterrey, Nuevo Leon, Mexico
+Dubai, United Arab Emirates
